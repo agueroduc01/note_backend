@@ -1,0 +1,4 @@
+node_modules/
+.env
+note-pro-91c72-firebase-adminsdk-iazk3-2346ed8221.json
+src/configs/firebaseConfig.js
